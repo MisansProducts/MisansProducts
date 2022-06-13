@@ -36,3 +36,5 @@ Microsoft Visual Studio Code misspells multi-line pastes the first time through 
 ### GitHub Notes
 
 To view all comments on other issues, type `is:issue commenter:MisansProducts` in the search box for `https://github.com/issues` page.
+
+When making pull requests, mention the issue with `#[NUMBER]` to attach the pull request to the issue.
