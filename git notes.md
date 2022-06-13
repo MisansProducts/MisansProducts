@@ -32,3 +32,7 @@ Try to LF normalize all files uploaded to GitHub for cross-platform compatibilit
 Be aware that on Windows OS, as long as a file has 2 or more lines, it can be saved as a LF end of line sequence. If a file has only 1 line - even if it is saved as a LF EOL sequence - upon reopening the file, it will take on the CRLF EOL sequence. I discovered this when my .gitignore files kept reverting back to CRLF EOL sequence. If a file is 1 line long, then add an extra empty line.
 
 Microsoft Visual Studio Code misspells multi-line pastes the first time through the Git Bash terminal. I need to experiment with this.
+
+### GitHub Notes
+
+To view all comments on other issues, type `is:issue commenter:MisansProducts` in the search box for `https://github.com/issues` page.
