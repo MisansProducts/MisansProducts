@@ -18,3 +18,15 @@ I am currently uploading my projects to GitHub.
 I can make music and edit videos. I have also written poems and novels. Since I started programming, I have built desktop computers from their parts. More than anything else, I like to be consistent with everything.
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=MisansProducts&style=plastic "Profile views counter")
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=MisansProducts&hide=stars&show_icons=true&theme=radical"/>
+  </a>
+
+  <br>
+
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisansProducts&layout=compact&theme=radical"/>
+  </a>
+</p>
