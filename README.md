@@ -19,14 +19,12 @@ I can make music and edit videos. I have also written poems and novels. Since I 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=MisansProducts&style=plastic "Profile views counter")
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MisansProducts&hide=stars&show_icons=true&theme=radical"/>
-  </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MisansProducts&hide=stars&show_icons=true&theme=radical"/>
+</a>
 
-  <br>
+<br>
 
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisansProducts&layout=compact&theme=radical"/>
-  </a>
-</p>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisansProducts&layout=compact&theme=radical"/>
+</a>
