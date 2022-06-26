@@ -26,5 +26,5 @@ I can make music and edit videos. I have also written poems and novels. Since I 
 <br>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisansProducts&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisansProducts&layout=compact&theme=radical&langs_count=10"/>
 </a>
