@@ -2,7 +2,7 @@
 
 Hello!
 
-My name is Alex Akoopie. I have been programming and writing code as a hobby. I want to translate my skills to the real world. I have helped friends by writing code for them, but I wish to work with others in an environment where everyone writes code for a common goal.
+My name is Alex Savage. I have been programming and writing code as a hobby. I want to translate my skills to the real world. I have helped friends by writing code for them, but I wish to work with others in an environment where everyone writes code for a common goal.
 
 I am currently uploading my projects to GitHub.
 
