@@ -8,14 +8,16 @@ I am currently uploading my projects to GitHub.
 
 ## Skills
 
-* **Full Stack:** Python | C# | C++ | C | Java
-* **Website Development:** HTML5 | CSS | JavaScript
-* **Databases:** JSON | PostgreSQL | SQL
-* **Source Control:** Git | Visual Studio Code | Jupyter
-* **Scripts:** Batch | Bash | Lua
-* **Architectures:** x86 Assembly | MIPS
-* **Platforms:** Linux | Windows
-* **Microsoft Office:** Word | Excel | PowerPoint
+* **Full Stack**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python • C# • C++ • C • Java
+* **Website Development**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML5 • CSS • JavaScript
+* **Databases**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JSON • PostgreSQL • SQL
+* **Scripts**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batch • Bash • Lua
+* **Architectures**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x86 Assembly • MIPS
 
 ## Interesting Facts
 
