@@ -8,10 +8,14 @@ I am currently uploading my projects to GitHub.
 
 ## Skills
 
-* Website developer (HTML5, CSS, JavaScript)
-* Software developer (Python, C#, C++, Batch, x86 Assembly)
-* Database experience (JSON, PostgreSQL)
-* Platforms: Windows, Linux _(Ubuntu)_
+* **Full Stack:** Python | C# | C++ | C | Java
+* **Website Development:** HTML5 | CSS | JavaScript
+* **Databases:** JSON | PostgreSQL | SQL
+* **Source Control:** Git | Visual Studio Code | Jupyter
+* **Scripts:** Batch | Bash | Lua
+* **Architectures:** x86 Assembly | MIPS
+* **Platforms:** Linux | Windows
+* **Microsoft Office:** Word | Excel | PowerPoint
 
 ## Interesting Facts
 
