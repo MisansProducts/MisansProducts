@@ -10,12 +10,12 @@ I am currently uploading my projects to GitHub.
 
 * **Full Stack**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python • C# • C++ • C • Java
-* **Website Development**<br>
+* **Web Development**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML5 • CSS • JavaScript
 * **Databases**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JSON • PostgreSQL • SQL
 * **Scripts**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batch • Bash • Lua
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batch • Bash • Lua • R
 * **Architectures**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x86 Assembly • MIPS
 
