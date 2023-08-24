@@ -33,6 +33,8 @@ Be aware that on Windows OS, as long as a file has 2 or more lines, it can be sa
 
 Microsoft Visual Studio Code misspells multi-line pastes the first time through the Git Bash terminal. I need to experiment with this.
 
+Use `git config core.longpaths true` to allow the current project to stage long filenames. This is because Windows only allows 260 characters for filenames.
+
 ### GitHub Notes
 
 To view all comments on other issues, type `is:issue commenter:MisansProducts` in the search box for `https://github.com/issues` page.
