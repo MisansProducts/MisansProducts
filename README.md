@@ -9,13 +9,13 @@ I am currently uploading my projects to GitHub.
 ## Skills
 
 * **Full Stack**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python • C# • C++ • C • Java
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python • C# • C++ • C • Java • Kotlin • Swift
 * **Web Development**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML5 • CSS • JavaScript
 * **Databases**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JSON • PostgreSQL • SQL
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JSON • PostgreSQL • MySQL • SQL
 * **Scripts**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batch • Bash • Lua • R
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Batch • Bash • MATLAB • Lua • R
 * **Architectures**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x86 Assembly • MIPS
 
