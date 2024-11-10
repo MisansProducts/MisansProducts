@@ -22,6 +22,7 @@
 * `git branch` - Displays all branches in a local git repository.
 * `git branch [NAME]` - Creates a new branch in a local git repository.
 * `git checkout [NAME]` - Switches to a different branch in a local git repository.
+* `git fetch` then `git switch [NAME]` - Pulls a branch from a remote then switches to it.
 
 ## Notes
 
