@@ -17,6 +17,7 @@
 * `git remote remove origin` - Removes the connection from a local git repository to GitHub.
 * `git log` - Displays all commits in a local git repository.
 * `git status` - Displays staged files that are ready to commit.
+* `git clean -f` - Removes unstaged files after a git reset (hard). Use -n to view those files in question.
 
 ### Branching
 * `git branch` - Displays all branches in a local git repository.
