@@ -18,6 +18,7 @@
 * `git log` - Displays all commits in a local git repository.
 * `git status` - Displays staged files that are ready to commit.
 * `git clean -f` - Removes unstaged files after a git reset (hard). Use -n to view those files in question.
+* `git rebase -i HEAD~N` - Modifies the last N commits.
 
 ### Branching
 * `git branch` - Displays all branches in a local git repository.
