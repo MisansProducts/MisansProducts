@@ -19,6 +19,7 @@
 * `git status` - Displays staged files that are ready to commit.
 * `git clean -f` - Removes unstaged files after a git reset (hard). Use -n to view those files in question.
 * `git rebase -i HEAD~N` - Modifies the last N commits.
+* `python git-filter-repo --path [PATH] --invert-paths --force` - To delete files from commit history. Requires adding origin and force pushing.
 
 ### Branching
 * `git branch` - Displays all branches in a local git repository.
