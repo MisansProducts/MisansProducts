@@ -20,5 +20,5 @@ Software developer.
 <br>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats-liart-seven-27.vercel.app/api/top-langs/?username=MisansProducts&layout=compact&theme=radical&langs_count=10"/>
+  <img src="https://github-readme-stats-liart-seven-27.vercel.app/api/top-langs/?username=MisansProducts&layout=compact&theme=radical&langs_count=10&hide=jupyter%20notebook"/>
 </a>
